@@ -1,0 +1,52 @@
+# Flutter/Dart
+**/build/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/pubspec.lock
+
+# IntelliJ related files
+*.iml
+.idea/
+
+# VS Code related files
+.vscode/
+
+# MacOS related files
+*.DS_Store
+
+# Android Studio related files
+*.apk
+*.ap_
+*.hprof
+*.jks
+
+# Flutter specific files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Coverage files
+coverage/
+*.lcov
+
+# Other
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+*.lock
+*.tmp
+*.temp
+
+# Build directories
+android/app/build/
+ios/Pods/
